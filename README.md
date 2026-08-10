@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atharva
-- 👀 I’m interested in Createing  script for Autodesk Maya (MEL)
+- 👀 I’m interested in Createing  script for Autodesk Maya (Python)
 - 🌱 I’m currently learning MEL and Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -- renderflare.in@gmail.com  -- 
